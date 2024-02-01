@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+.container-fluid{
+    max-width:1200px;
+    margin: 0 auto;
+}
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.footer{
+    padding: 50px 0px;
+    background:#f4f4f4;
+}
